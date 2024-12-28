@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project_Synergy/",
+    "build": "vite build --base=/js_111_khrystynakozakevych/",
     "preview": "vite preview"
   },
   "devDependencies": {
